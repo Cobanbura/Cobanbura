@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Burak!</h1>
+<h1 align="center">👋 Hi, I'm Burak!</h1>
 <h4 align="center">A Passionate Indie Game Developer & QA Specialist</h4>
 
 <p align="center">

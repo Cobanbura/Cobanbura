@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Burak!</h1>
-<h3 align="center">🎮 Creative Indie Game Developer & 🧪 QA Automation Specialist</h3>
+<h3 align="center">Indie Game Developer & Test Automation and QA Specialist</h3>
 
 <p align="center">
   I'm Burak, a software engineer who thrives on blending creative design with robust engineering. My professional journey started in Naval Architecture and Ocean Engineering, followed by 3+ years in underwater robotics, where I honed my skills in complex systems. Transitioning into software, I spent nearly 5 years as a Unity Developer building mobile games, followed by a transition into Software Quality Assurance as a QA Automation Specialist. Today, I leverage this diverse background to craft engaging interactive experiences and ensure bulletproof software quality through automated test frameworks. Outside of work, I love exploring independent game prototypes and developing hobby projects targeting Steam. Let's build something great together!
@@ -14,7 +14,7 @@
   <a href="https://unity.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" hspace="5"/></a>
   <a href="https://godotengine.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40" hspace="5"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" hspace="5"/></a>
-  <a href="https://www.python.org/images/python-logo--only.svg" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" hspace="5"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" hspace="5"/></a>
   <!-- QA & Automation -->
   <a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40" hspace="5"/></a>
   <!-- Version Control -->
@@ -35,27 +35,18 @@
 
 ---
 
-<table align="center">
+### 🌐 Connect with Me
+
+<table align="left" style="margin: 0;">
   <tr>
-    <th align="center">📊 Profile Stats</th>
-    <th align="center">⚙️ GitHub Stats</th>
-    <th align="center">🌐 Connect with Me</th>
-  </tr>
-  <tr>
-    <!-- 1. Sütun: Profile Stats / Views -->
-    <td align="center" valign="top">
-      <img src="https://komarev.com/ghpvc/?username=Cobanbura&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <td align="center" valign="middle" style="padding: 8px 12px; font-weight: bold;">
+      LinkedIn
     </td>
-    <!-- 2. Sütun: GitHub Stats & Top Languages -->
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Cobanbura&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /><br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cobanbura&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-    <!-- 3. Sütun: Connect with Me -->
-    <td align="center" valign="top">
+    <td align="center" valign="middle" style="padding: 8px 12px;">
       <a href="https://linkedin.com/in/cobanbura" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/Profile-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
     </td>
   </tr>
 </table>
+<br clear="all"/>

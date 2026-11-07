@@ -30,7 +30,7 @@ Today I combine both worlds: crafting engaging interactive experiences, and maki
 
 <div align="center">
 
-| | |
+| Area | Tools I used |
 |---|---|
 | **Game Engines** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="32" height="32" alt="Unity" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" width="32" height="32" alt="Godot" /> |
 | **Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32" height="32" alt="C#" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32" alt="Python" /> |
@@ -44,6 +44,7 @@ Today I combine both worlds: crafting engaging interactive experiences, and maki
 ## 🗺️ Journey
 
 | Period | What I did |
+|---|---|
 | 🎓 University | Naval Architecture & Ocean Engineering |
 | 🤖 3+ years | ROV Team Leader / Member, designing and building underwater robotics |
 | 📱 2019 – Jan 2024 | Unity Developer, mobile games with C# |

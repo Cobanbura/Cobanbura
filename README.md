@@ -81,16 +81,6 @@ It grew out of my own hobby: keeping track of which Pokémon I still need for my
 I'm an avid **TCG player and collector**. When I'm not coding, you'll probably find me playing, sorting binders, or hunting for the next card to complete a set.
 Fun fact: that's exactly how my Godot project above was born. 😄
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cobanbura&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cobanbura&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
 
 ---
 
